@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: 1.16
+  - base: "1.16"
     upstream: CFPAOrg:1.16    # change `wei` to the owner of upstream repo
     mergeMethod: merge
