@@ -1,0 +1,18 @@
+{
+  "name": "chinese_cn_tw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flier268",
+  "license": "MIT",
+  "dependencies": {
+    "cjk-conv": "^1.2.121",
+    "glob": "^7.1.6",
+    "novel-segment": "^2.7.55"
+  }
+}
